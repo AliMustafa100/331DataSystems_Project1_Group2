@@ -35,7 +35,8 @@ This repository contains the **Project 1** submissions for CSCI 331 Data Systems
   - Aditya: [YouTube](https://www.youtube.com/watch?v=6aKoDqlJd6I&feature=youtu.be)
   - Mret: [YouTube](https://www.youtube.com/watch?v=3IXuieYAJBk)
 - **Mohammad & Adrian**
-  - *Placeholder:* [TBD – Mohammad & Adrian Pairing Video](https://youtu.be/dfigMXik9dA)
+  - Mohammad (solo): [YouTube](https://youtu.be/1DdFvQqtGSg)
+  - Adrian (solo): [YouTube](https://www.youtube.com/watch?v=mvlgpB_Dq00)
 
 ## 📋 File Descriptions
 
