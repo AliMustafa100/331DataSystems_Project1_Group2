@@ -6,8 +6,8 @@ This repository contains the **Project 1** submissions for CSCI 331 Data Systems
 ## 📁 Project Structure
 
 ### Group Project Files
-- **Gantt Chart**: [`GNATT_CHART/Group2_Gantt Chart.xlsx.url`](./GNATT_CHART/Group2_Gantt%20Chart.xlsx)
-- **Group Notes**: [`GROUP_NOTES/Group2_TodoList.xlsx.url`](./GROUP_NOTES/Group2_TodoList.xlsx)
+- **Gantt Chart**: [`GNATT_CHART/Group2_Gantt Chart.xlsx`](./GNATT_CHART/Group2_Gantt%20Chart.xlsx)
+- **Group Notes**: [`GROUP_NOTES/Group2_TodoList.xlsx`](./GROUP_NOTES/Group2_TodoList.xlsx)
 
 ### Individual Submissions
 - **Mret Hein**: [`INDIVIDUAL_NOTEBOOKS/CSCI331_Group2_Project1_MretHein/`](./INDIVIDUAL_NOTEBOOKS/CSCI331_Group2_Project1_MretHein/)
@@ -27,8 +27,8 @@ This repository contains the **Project 1** submissions for CSCI 331 Data Systems
 ## 🎯 Quick Access Links
 
 ### 📊 Project Planning
-- **Gantt Chart**: [`GNATT_CHART/Group2_Gantt Chart.xlsx.url`](./GNATT_CHART/Group2_Gantt%20Chart.xlsx.url) — Visual project timeline and task scheduling
-- **Progress Tracking**: [`GROUP_NOTES/Group2_TodoList.xlsx.url`](./GROUP_NOTES/Group2_TodoList.xlsx.url) — Individual member progress and task completion tracking
+- **Gantt Chart**: [`GNATT_CHART/Group2_Gantt Chart.xlsx`](./GNATT_CHART/Group2_Gantt%20Chart.xlsx.url) — Visual project timeline and task scheduling
+- **Progress Tracking**: [`GROUP_NOTES/Group2_TodoList.xlsx`](./GROUP_NOTES/Group2_TodoList.xlsx.url) — Individual member progress and task completion tracking
 
 ### 🎥 Pairing Sessions
 - **Aditya & Mret**
@@ -40,8 +40,8 @@ This repository contains the **Project 1** submissions for CSCI 331 Data Systems
 ## 📋 File Descriptions
 
 ### Group Deliverables
-- `Group2_Gantt Chart.xlsx.url` — Project Gantt chart showing timeline and task dependencies
-- `Group2_TodoList.xlsx.url` — Comprehensive progress tracking spreadsheet with individual member contributions
+- `Group2_Gantt Chart.xlsx` — Project Gantt chart showing timeline and task dependencies
+- `Group2_TodoList.xlsx` — Comprehensive progress tracking spreadsheet with individual member contributions
 
 ### Individual Work
 Each team member has submitted their individual work in separate directories containing:
@@ -52,8 +52,8 @@ Each team member has submitted their individual work in separate directories con
 
 ## 🚀 Getting Started
 
-1. **View Project Timeline**: Open the Gantt chart at [`GNATT_CHART/Group2_Gantt Chart.xlsx.url`](./GNATT_CHART/Group2_Gantt%20Chart.xlsx.url)
-2. **Track Progress**: Check individual progress in [`GROUP_NOTES/Group2_TodoList.xlsx.url`](./GROUP_NOTES/Group2_TodoList.xlsx.url)
+1. **View Project Timeline**: Open the Gantt chart at [`GNATT_CHART/Group2_Gantt Chart.xlsx`](./GNATT_CHART/Group2_Gantt%20Chart.xlsx.url)
+2. **Track Progress**: Check individual progress in [`GROUP_NOTES/Group2_TodoList.xlsx`](./GROUP_NOTES/Group2_TodoList.xlsx.url)
 3. **Watch Pairing Session**: View the Aditya/Mret recordings above
 
 ## 📝 Notes
