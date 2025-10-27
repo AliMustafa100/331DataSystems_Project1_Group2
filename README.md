@@ -15,28 +15,28 @@ This repository contains the **Project 1** submissions for CSCI 331 Data Systems
 - **Adrian Angeles**: [`INDIVIDUAL_NOTEBOOKS/Individual_Group2_Project1_AdrianAngeles/`](./INDIVIDUAL_NOTEBOOKS/Individual_Group2_Project1_AdrianAngeles/)
 - **Ali (Mohammad) Mustafa**: [`INDIVIDUAL_NOTEBOOKS/Individual_Group2_Project1_MohammadMustafa/`](./INDIVIDUAL_NOTEBOOKS/Individual_Group2_Project1_MohammadMustafa/)
 
+## 🎥 Group Walkthrough
+-  Group Project 1 Walkthrough Video: [Youtube](https://youtu.be/R06plOSO8mM)
+
 ## 👥 Pairing Sessions (Project 1)
 - **Aditya & Mret**
   - Aditya's and Mret's recording: [Youtube](https://www.youtube.com/watch?v=FC5i3GTAyh0)
 - **Mohammad & Adrian**
   - Mohammad & Adrian Pairing Video: [Youtube](https://youtu.be/dfigMXik9dA)
 
-## 🎥 Group Walkthrough
--  Group Project 1 Walkthrough Video: [Youtube](https://youtu.be/R06plOSO8mM)
-
-## 🎯 Quick Access Links
-
-### 📊 Project Planning
-- **Gantt Chart**: [`GNATT_CHART/Group2_Gantt Chart.xlsx`](./GNATT_CHART/Group2_Gantt%20Chart.xlsx.url) — Visual project timeline and task scheduling
-- **Progress Tracking**: [`GROUP_NOTES/Group2_TodoList.xlsx`](./GROUP_NOTES/Group2_TodoList.xlsx.url) — Individual member progress and task completion tracking
-
-### 🎥 Pairing Sessions
+## Solo Walkthrough 
 - **Aditya & Mret**
   - Aditya: [YouTube](https://www.youtube.com/watch?v=6aKoDqlJd6I&feature=youtu.be)
   - Mret: [YouTube](https://www.youtube.com/watch?v=3IXuieYAJBk)
 - **Mohammad & Adrian**
   - Mohammad (solo): [YouTube](https://youtu.be/1DdFvQqtGSg)
   - Adrian (solo): [YouTube](https://www.youtube.com/watch?v=mvlgpB_Dq00)
+
+## 🎯 Quick Access Links
+
+### 📊 Project Planning
+- **Gantt Chart**: [`GNATT_CHART/Group2_Gantt Chart.xlsx`](./GNATT_CHART/Group2_Gantt%20Chart.xlsx.url) — Visual project timeline and task scheduling
+- **Progress Tracking**: [`GROUP_NOTES/Group2_TodoList.xlsx`](./GROUP_NOTES/Group2_TodoList.xlsx.url) — Individual member progress and task completion tracking
 
 ## 📋 File Descriptions
 
