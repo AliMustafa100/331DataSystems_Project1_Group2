@@ -17,8 +17,8 @@ This repository contains the **Project 1** submissions for CSCI 331 Data Systems
 
 ## 👥 Pairing Sessions (Project 1)
 - **Aditya & Mret**
-  - Aditya’s recording: [YouTube](https://www.youtube.com/watch?v=6aKoDqlJd6I&feature=youtu.be)
-  - Mret’s recording: [YouTube](https://www.youtube.com/watch?v=3IXuieYAJBk)
+  - Aditya's recording: [YouTube](https://www.youtube.com/watch?v=6aKoDqlJd6I&feature=youtu.be)
+  - Mret's recording: [YouTube](https://www.youtube.com/watch?v=3IXuieYAJBk)
 - **Mohammad & Adrian**
   - *Placeholder:* [TBD – Mohammad & Adrian Pairing Video](#)
 
