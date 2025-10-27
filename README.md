@@ -6,8 +6,8 @@ This repository contains the **Project 1** submissions for CSCI 331 Data Systems
 ## 📁 Project Structure
 
 ### Group Project Files
-- **Gantt Chart**: [`GNATT_CHART/Group2_Gantt Chart.xlsx.url`](./GNATT_CHART/Group2_Gantt%20Chart.xlsx.url)
-- **Group Notes**: [`GROUP_NOTES/Group2_TodoList.xlsx.url`](./GROUP_NOTES/Group2_TodoList.xlsx.url)
+- **Gantt Chart**: [`GNATT_CHART/Group2_Gantt Chart.xlsx.url`](./GNATT_CHART/Group2_Gantt%20Chart.xlsx)
+- **Group Notes**: [`GROUP_NOTES/Group2_TodoList.xlsx.url`](./GROUP_NOTES/Group2_TodoList.xlsx)
 
 ### Individual Submissions
 - **Mret Hein**: [`INDIVIDUAL_NOTEBOOKS/CSCI331_Group2_Project1_MretHein/`](./INDIVIDUAL_NOTEBOOKS/CSCI331_Group2_Project1_MretHein/)
