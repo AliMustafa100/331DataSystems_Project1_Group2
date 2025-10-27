@@ -19,10 +19,10 @@ This repository contains the **Project 1** submissions for CSCI 331 Data Systems
 - **Aditya & Mret**
   - Aditya's and Mret's recording: [Youtube](https://www.youtube.com/watch?v=FC5i3GTAyh0)
 - **Mohammad & Adrian**
-  - *Placeholder:* [TBD – Mohammad & Adrian Pairing Video](#)
+  - *Placeholder:* [TBD – Mohammad & Adrian Pairing Video](https://youtu.be/dfigMXik9dA)
 
 ## 🎥 Group Walkthrough
-- *Placeholder:* [TBD – Group Project 1 Walkthrough Video](#)
+- *Placeholder:* [TBD – Group Project 1 Walkthrough Video](https://youtu.be/R06plOSO8mM)
 
 ## 🎯 Quick Access Links
 
@@ -35,7 +35,7 @@ This repository contains the **Project 1** submissions for CSCI 331 Data Systems
   - Aditya: [YouTube](https://www.youtube.com/watch?v=6aKoDqlJd6I&feature=youtu.be)
   - Mret: [YouTube](https://www.youtube.com/watch?v=3IXuieYAJBk)
 - **Mohammad & Adrian**
-  - *Placeholder:* [TBD – Mohammad & Adrian Pairing Video](#)
+  - *Placeholder:* [TBD – Mohammad & Adrian Pairing Video](https://youtu.be/dfigMXik9dA)
 
 ## 📋 File Descriptions
 
@@ -64,3 +64,4 @@ Each team member has submitted their individual work in separate directories con
 
 ---
 *Repository created for CSCI 331 Data Systems – Group 2 **Project 1***
+
